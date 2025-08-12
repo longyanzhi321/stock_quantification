@@ -124,12 +124,6 @@ python notification_service.py
 
 项目遵循清晰的分层架构，各模块之间通过标准数据格式进行通信，具有良好的可扩展性和维护性。
 
-## 扩展功能
-
-### 短信通知
-
-[notification_service.py](file:///C:/Users/Administrator/PY_NEWS_AI/notification_service.py)中包含了短信通知的基础框架，需要集成第三方短信服务API（如阿里云短信服务、腾讯云短信服务等）来实现具体功能。
-
 ## 注意事项
 
 1. 使用前请确保已安装所有依赖
