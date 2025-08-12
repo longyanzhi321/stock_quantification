@@ -38,20 +38,6 @@
    source ~/.bashrc
    ```
 
-### 使用 .env 文件（推荐）
-
-您也可以创建一个 `.env` 文件来配置这些变量：
-
-1. 在项目根目录创建 `.env` 文件
-2. 添加以下内容：
-   ```
-   SENDER_EMAIL=your_email@gmail.com
-   SENDER_PASSWORD=your_password
-   RECEIVER_EMAIL=receiver@example.com
-   EMAIL_HOST=smtp.qq.com
-   EMAIL_PORT=587
-   ```
-
 ## 常见邮箱服务商SMTP配置
 
 ### Gmail
